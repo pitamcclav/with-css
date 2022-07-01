@@ -1,0 +1,88 @@
+ body{
+   background-color: #EEEEEE;
+ }
+ a:hover{
+   color: red;
+ }
+h1{
+  color: #54BAB9;
+  text-align: center;
+  font-family: 	"Brush Script MT", sans-serif;
+  font-size: 150px;
+
+}
+.hr{
+  border-style: dotted;
+  border-left-style: none;
+  border-bottom-style: none;
+  border-right-style: none;
+  margin: 20px;
+  margin-left: 600px;
+  width: 10px;
+  height: 20px;
+  border
+  background-color: #54BAB9;
+
+}
+h3{
+  color: #66BFBF
+}
+p{
+  text-align: center;
+  text-align: center;
+}
+.one:hover{
+  background-color: #FCD8D4;
+}
+.two:hover{
+  background-color: #DEBA9D;
+}
+.three:hover{
+  background-color: #D3E4CD;
+}
+.four:hover{
+  background-color: #C8C6C6;
+}
+.five:hover{
+  background-color: #96BAFF;
+}
+.one{
+  transition: 0.6s;
+  background-color: #F6D7A7;
+  width: 35%;
+  height: 300px;
+
+  display: inline-block;
+}
+.two{
+  width: 35%;
+  height: 300px;
+  margin-left: 445px;
+  background-color: #CDF0EA;
+  display: inline-block;
+  transition: 0.6s;
+}
+.three{
+  width: 30%;
+  height: 300px;
+  margin-left: 525px;
+  margin-top: -16px;
+  background-color: #F5F0BB;
+  transition: 0.6s;
+}
+.four{
+  width: 35%;
+  height: 300px;
+
+  background-color: red;
+  display: inline-block;
+  transition: 0.6s;
+}
+.five{
+  width: 35%;
+  height: 300px;
+  margin-left: 445px;
+  transition: 0.6s;
+  background-color: #F0EBE3;
+  display: inline-block;
+}
